@@ -1,0 +1,15 @@
+body{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-V-O_Mot9xHH3XFyvrIlnNNN1E8XZsoThP4bA5JHbAmSEdh2c&usqp=CAU);
+	text-align: center;
+}
+
+.text-muted{
+	background-color: rgb(45, 148, 245);
+	color: rgb(236, 232, 240);
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
